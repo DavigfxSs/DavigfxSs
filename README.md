@@ -41,7 +41,7 @@ Atualmente estou aprofundando meus conhecimentos em **React** e explorando novas
 ## 📫 Vamos conversar?
 
 - **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/vicente-davi-diniz-amorim-001635176/)  
-- **Portfólio**: [Seu Portfólio](DavigfxSs/WebProfile.github.io)  
+- **Portfólio**: [Seu Portfólio](https://davigfxss.github.io/WebProfile)
 - **Email**: vicentedavid31@outlook.com
 
 ---
@@ -96,7 +96,7 @@ I'm currently deepening my knowledge in **React** and exploring new technologies
 ## 📫 Let's Connect!
 
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/vicente-davi-diniz-amorim-001635176/)  
-- **Portfolio**: [My Portfolio](DavigfxSs/WebProfile.github.io)  
+- **Portfolio**: [My Portfolio](https://davigfxss.github.io/WebProfile)  
 - **Email**: vicentedavid31@outlook.com
 
 ---
